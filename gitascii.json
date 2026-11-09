@@ -11533,7 +11533,9 @@
         "width": 504,
         "height": 280
       },
-      "config": {},
+      "config": {
+        "showGists": false
+      },
       "locked": false,
       "visible": true,
       "zIndex": 3,
@@ -11559,23 +11561,6 @@
       "visible": true,
       "zIndex": 4,
       "instanceId": "widget_1793469663216_3"
-    },
-    {
-      "widgetId": "footer",
-      "name": "Footer Widget",
-      "position": {
-        "x": 0,
-        "y": 578
-      },
-      "size": {
-        "width": 800,
-        "height": 50
-      },
-      "config": {},
-      "locked": false,
-      "visible": true,
-      "zIndex": 6,
-      "instanceId": "widget_1793469663216_4"
     },
     {
       "widgetId": "tech-stack",
@@ -11623,6 +11608,42 @@
       "visible": true,
       "zIndex": 6,
       "instanceId": "widget_1793469663216_5"
+    },
+    {
+      "instanceId": "widget_9bb13558-1d21-4a4a-b585-3c7377141a17",
+      "widgetId": "asciiprofile-heatmap",
+      "name": "Asciiprofile-heatmap Widget",
+      "position": {
+        "x": 8,
+        "y": 808
+      },
+      "size": {
+        "width": 780,
+        "height": 240
+      },
+      "config": {
+        "accentColor": "#ffa657"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 6
+    },
+    {
+      "instanceId": "widget_7aeb8fdd-2b4b-48dc-bfb4-4572b2c529d4",
+      "widgetId": "codeweb-showcase-cards",
+      "name": "Codeweb-showcase-cards Widget",
+      "position": {
+        "x": 14,
+        "y": 572
+      },
+      "size": {
+        "width": 768,
+        "height": 212
+      },
+      "config": {},
+      "locked": false,
+      "visible": true,
+      "zIndex": 7
     }
   ],
   "globalStyles": {
