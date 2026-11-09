@@ -12,7 +12,9 @@
         "width": 800,
         "height": 74
       },
-      "config": {},
+      "config": {
+        "hideBorder": true
+      },
       "locked": false,
       "visible": true,
       "zIndex": 1,
@@ -11736,7 +11738,7 @@
   "templateId": "terminal",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1794240302947_pj6um",
-    "updatedAt": "2026-11-09T16:05:12.558Z"
+    "revision": "rev_1794240398285_ujruk",
+    "updatedAt": "2026-11-09T16:06:43.572Z"
   }
 }
